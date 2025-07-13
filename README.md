@@ -63,5 +63,18 @@ This interactive HR Analytics Dashboard was built using Power BI to visualize an
 ## Dashboard
 <img width="1017" height="568" alt="Screenshot 2025-07-13 203023" src="https://github.com/user-attachments/assets/080479b1-8b15-45f0-b763-a5c7873c8e0a" />
 
+✅ Conclusion
+This HR Analytics Dashboard helps understand why employees are leaving the company. It shows important details like:
+
+How many people left and from which age or job group
+
+If salary, education, or gender affects attrition
+
+Which departments and roles have the most attrition
+
+Using Power BI, this dashboard turns raw data into useful visuals so HR teams can make better decisions and reduce employee turnover.
+
+
+
   
  
