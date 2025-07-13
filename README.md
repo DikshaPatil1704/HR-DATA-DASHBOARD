@@ -59,5 +59,9 @@ This interactive HR Analytics Dashboard was built using Power BI to visualize an
 * Power BI (Data Modeling, DAX, Custom Visuals)
 * Data Cleaning & Transformation (Power Query)
 * Drill-through & Filtering Techniques
+
+## Dashboard
+<img width="1017" height="568" alt="Screenshot 2025-07-13 203023" src="https://github.com/user-attachments/assets/080479b1-8b15-45f0-b763-a5c7873c8e0a" />
+
   
  
